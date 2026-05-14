@@ -78,5 +78,5 @@ If you find this project helpful for your research, please consider citing us:
   author={Wang, Ze and Chen, Hao and Hu, Benran and Liu, Jiang and Sun, Ximeng and Wu, Jialian and Su, Yusheng and Yu, Xiaodong and Barsoum, Emad and Liu, Zicheng},
   journal={arXiv preprint arXiv:2506.21022},
   year={2025}
-
+}
 ```
